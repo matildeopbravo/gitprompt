@@ -1,4 +1,5 @@
 #ifndef __GITPROMPT_H_
+
 #define __GITPROMPT_H_
 
 #define error(X) fprintf(stderr, "gitprompt: " X "\n")

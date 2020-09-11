@@ -1,4 +1,5 @@
 #ifndef COLORS_H
+
 #define COLORS_H
 
 #ifndef ZSH
@@ -18,6 +19,7 @@
 #define RESET_HIDDEN "\e[28m"
 
 #define FG_DEFAULT "\e[39m"
+#define FG_MINE "%{\e[38;5;105m%}"
 #define FG_BLACK "\e[30m"
 #define FG_RED "\e[31m"
 #define FG_GREEN "\e[32m"
@@ -70,6 +72,7 @@
 #define RESET_REVERSE "%{\e[27m%}"
 #define RESET_HIDDEN "%{\e[28m%}"
 
+#define FG_MINE "%{\e[38;5;105m%}"
 #define FG_DEFAULT "%{\e[39m%}"
 #define FG_BLACK "%{\e[30m%}"
 #define FG_RED "%{\e[31m%}"

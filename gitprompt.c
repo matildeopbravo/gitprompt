@@ -1,4 +1,5 @@
 // A little prompt that displays git status
+
 // Just add it to your PS1, can be customized in config.h
 // Better than a script as it avoids the overhead of calling other programs,
 // making it much faster.
